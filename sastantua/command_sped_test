@@ -1,0 +1,1 @@
+./sastantua_exemple 40 > a && ./out_sas 40 > b && diff a b
